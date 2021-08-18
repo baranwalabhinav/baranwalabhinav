@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abhinav.
+- 👀 I’m interested in web development, data engineering and analysis and software engineering too!
+- 🌱 I’m currently learning full stack web development.
+- 💞️ I’m looking to just explore the world of technology and try my best to contribute to its accessibility.
+- 📫 Reach me on my mail at baranwalabhinav334@gmail.com
